@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block"><br>
   <br> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <br>
-<img align="right" alt="img here" height="150" style="border-radius:50px;" src=">//
+<img align="right" alt="img here" height="150" style="border-radius:50px;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mysafetysign.com%2Fimg%2Flg%2FS%2Fmaintenance-in-progress-caution-sign-s-9310.png&imgrefurl=https%3A%2F%2Fwww.mysafetysign.com%2Fmaintenance-in-progress-osha-caution-sign%2Fsku-s-9310&tbnid=jHBLu6jEd_UZ-M&vet=12ahUKEwic5I7cwan5AhWPpJUCHeoFBZEQMygFegUIARDLAQ..i&docid=84yWSE7gv-2VyM&w=800&h=579&q=waarning%20under%20maintenance&ved=2ahUKEwic5I7cwan5AhWPpJUCHeoFBZEQMygFegUIARDLAQ">
 </div>
 <br>
  

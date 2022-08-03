@@ -35,10 +35,10 @@ Here are some ideas to get you started:
   <br>
 <img align="right" alt="img here" height="150" style="border-radius:50px;" src=">//
 </div>
- 
+ <br>
 ##
     
-<div> <br>
+<br><div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>

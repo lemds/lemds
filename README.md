@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: justify-content: space-between">
+<div align="center">
   <a href="https://github.com/lemds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemds&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="img here" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+  
 </div>
 
 ##
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <img align="right" alt="img here" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
 </div>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

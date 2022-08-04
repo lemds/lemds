@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
+<div style="display: justify-content: space-between">
   <a href="https://github.com/lemds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemds&layout=compact&langs_count=7&theme=dark"/>
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ##
 
 <div style="display: inline_block"><br>
+  
+  
   <br> 
   <img align="center" alt="lemds-swift" height="30" width="70" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
   <img align="center" alt="lemds-java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">

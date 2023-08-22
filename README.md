@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1>👋 Hi there, I'm lemds!</h1>
+  <h1>👋🏻 Hi there, I'm lemds!</h1>
   <p>Bachelors of Computer Science | Tech Enthusiast | Open Source Contributor</p>
 </div>
 

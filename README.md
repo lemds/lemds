@@ -56,7 +56,7 @@ Feel free to reach out to me. I'd love to connect with you!
 
 <!-- Footer -->
 <div align="center">
-  <p>Made with ❤️ and ☕ by [Your Name]</p>
+  <p>Made with ❤️ and ☕ by lemds</p>
 </div>
 
 

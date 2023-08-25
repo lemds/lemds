@@ -19,9 +19,10 @@
 
 <!-- About Me -->
 ## 🌟 About Me
+
 Young professional recently graduated in Computer Science with practical experience in software development projects. Skill in programming in several languages and development of software solutions for complex problems.
 
-I'm a technology enthusiast with a passion for creating elegant solutions through code. My journey in the tech world has led me to explore various fields, from front-end web development to open-source contributions. I love sharing knowledge and collaborating on interesting projects.
+I'm a tech enthusiast with a passion for creating elegant solutions through code. My journey in the tech world has led me to explore various fields, from front-end web development to open-source contributions. I love sharing knowledge and collaborating on interesting projects.
 
 <!-- Skills -->
 ## 🚀 Skills
@@ -29,11 +30,12 @@ I'm a technology enthusiast with a passion for creating elegant solutions throug
 - **Languages:** Swift, java, c++,c#, TypeScript, javascript, css, python;
 - **Web Development:** npm(Node Package Manager) Front (React.js, Angular, Vue.js) Back(Express.js,Ruby);
 - **Version Control:** [Git and GitHub];
+- **Deployment and Hosting:** Heroku,AWS, Azure, or other cloud services;
 - **Database Management:** SQL(e.g., MySQL, PostgreSQL);
 - **Serverless Computing:** AWS Lambda, Azure Functions;
 - **Containerization:** Docker & Kubernetes;
-- **Content Management Systems:** WordPress, Drupal
-- **Other:** Familiarity with Agile methodologies,Problem Solving, Algorithmic thinking, Data structures and algorithms;
+- **Content Management Systems:** WordPress, Drupal;
+- **Other:** Familiarity with Agile methodologies,Problem Solving, Data structures and algorithms, experience with project management tools like JIRA, Trello, Asana;
 
 
 <!-- Featured Projects -->
@@ -56,8 +58,8 @@ I'm a technology enthusiast with a passion for creating elegant solutions throug
 Feel free to reach out to me. I'd love to connect with you!
 
 - Personal Website/Portfolio: [your personal website or portfolio]
-- LinkedIn: [your LinkedIn profile]
-- Twitter: [your Twitter profile]
+- LinkedIn: [ LinkedIn profile]
+- Twitter: [Twitter profile]
 
 <!-- Footer -->
 <div align="center">

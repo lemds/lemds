@@ -26,10 +26,15 @@ I'm a technology enthusiast with a passion for creating elegant solutions throug
 <!-- Skills -->
 ## 🚀 Skills
 
-- **Languages:** [List of languages you're proficient in]
-- **Web Development:** [Frameworks, libraries, tools you're familiar with]
-- **Version Control:** [Git and GitHub]
-- **Other:** [Any other relevant skills]
+- **Languages:** Swift, java, c++,c#, TypeScript, javascript, css, python;
+- **Web Development:** npm(Node Package Manager) Front (React.js, Angular, Vue.js) Back(Express.js,Ruby);
+- **Version Control:** [Git and GitHub];
+- **Database Management:** SQL(e.g., MySQL, PostgreSQL);
+- **Serverless Computing:** AWS Lambda, Azure Functions;
+- **Containerization:** Docker & Kubernetes;
+- **Content Management Systems:** WordPress, Drupal
+- **Other:** Familiarity with Agile methodologies,Problem Solving, Algorithmic thinking, Data structures and algorithms;
+
 
 <!-- Featured Projects -->
 ## 🌎 Featured Projects

@@ -27,7 +27,7 @@ I'm a tech enthusiast with a passion for creating elegant solutions through code
 <!-- Skills -->
 ## 🚀 Skills
 
-- **Languages:** Swift, java, c++,c#, TypeScript, javascript, css, python;
+- **Languages:** Swift, java, python, c++,c#, TypeScript, javascript, css;
 - **Web Development:** npm(Node Package Manager) Front (React.js, Angular, Vue.js) Back(Express.js,Ruby);
 - **Version Control:** [Git and GitHub];
 - **Deployment and Hosting:** Heroku,AWS, Azure, or other cloud services;
@@ -39,13 +39,17 @@ I'm a tech enthusiast with a passion for creating elegant solutions through code
 
 
 <!-- Featured Projects -->
+<!--
 ## 🌎 Featured Projects
 
 - [Project Name](link to the repository) - A brief description of the project.
 - [Project Name](link to the repository) - A brief description of the project.
 - [Project Name](link to the repository) - A brief description of the project.
 
+
+  
 <!-- GitHub Stats -->
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -53,6 +57,7 @@ I'm a tech enthusiast with a passion for creating elegant solutions through code
 </div>
 
 <!-- Contact -->
+<!--
 ## 📬 Get in Touch
 
 Feel free to reach out to me. I'd love to connect with you!

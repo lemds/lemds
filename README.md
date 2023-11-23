@@ -5,6 +5,7 @@
 </div>
 
 <!-- Badges -->
+<!--
 <div align="center">
   <a href="[your personal website or portfolio]">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=[your personal website or portfolio]">

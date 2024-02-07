@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1>👋🏻 Hi there, I'm lemds!</h1>
+  <h1>👋🏻 Hi there, I'm Luis!</h1>
   <p>Bachelors of Computer Science | Tech Enthusiast | Open Source Contributor</p>
 </div>
 
@@ -69,7 +69,7 @@ Feel free to reach out to me. I'd love to connect with you!
 
 <!-- Footer -->
 <div align="center">
-  <p>Made with ❤️ and ☕ by lemds</p>
+  <p>Made by lemds</p>
 </div>
 
 

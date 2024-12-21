@@ -21,14 +21,14 @@
 <!-- About Me -->
 ## 🌟 About Me
 
-Young professional recently graduated in Computer Science with practical experience in software development projects. Skill in programming in several languages and development of software solutions for complex problems.
+Professional graduated in Computer Science with practical experience in software development projects. 
 
-I'm a tech enthusiast with a passion for creating elegant solutions through code. My journey in the tech world has led me to explore various fields, from front-end web development to open-source contributions. I love sharing knowledge and collaborating on interesting projects.
+I'm a tech enthusiast with a passion for creating elegant solutions through code. My journey in the tech world has led me to explore various fields. Skill in programming in several languages, from front-end to back-end. I love sharing knowledge and collaborating on interesting projects.
 
 <!-- Skills -->
 ## 🚀 Skills
 
-- **Languages:** Swift, java, python, c++,c#, TypeScript, javascript, css;
+- **Languages:**  java, python, Swift c/c++, c#, TypeScript, javascript, css;
 - **Web Development:** npm(Node Package Manager) Front (React.js, Angular, Vue.js) Back(Express.js,Ruby);
 - **Version Control:** [Git and GitHub];
 - **Deployment and Hosting:** Heroku,AWS, Azure, or other cloud services;
